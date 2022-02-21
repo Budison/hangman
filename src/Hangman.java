@@ -6,6 +6,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Hangman  {
+
     public static void main(String[] args) throws FileNotFoundException {
 
         // "user.dir" gives us the program's working directory
